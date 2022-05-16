@@ -1,1 +1,3 @@
-document.title = "LinkedIn";
+if (document.title != "LinkedIn") {
+    document.title = "LinkedIn";
+}
