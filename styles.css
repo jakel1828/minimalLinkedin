@@ -1,3 +1,3 @@
-#ember21, .scaffold-layout__sidebar, aside.scaffold-layout__aside {
+#ember21, .scaffold-layout__sidebar, aside.scaffold-layout__aside, a#ember22.global-nav__primary-link.ember-view {
   display: none;
 }
