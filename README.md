@@ -22,7 +22,8 @@ To install Minimal LinkedIn:
 3. Enable Developer Mode if not already enabled.
 4. Click "Load Unpacked" button and browse to and select the folder containing the JSON, CSS, and JavaScript files from the repo.
 5. Make sure extension is enabled and browse to LinkedIn.
-6. Enjoy.
+6. (Optional) Disable Developer Mode for increased security. (The extension should still work after disabling Developer Mode.)
+7. Enjoy.
 
 ## Notes
 Below are some notes about the features of Minimal LinkedIn.
