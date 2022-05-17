@@ -32,6 +32,11 @@ Below are some notes about the features of Minimal LinkedIn.
 2. In addition to hiding the Notifications bell, the extension also hides the Messaging option in the navigation menu. But Messaging can still be accessed via the chat box in the bottom right of the page.
 3. The custom title refreshes every 500 milliseconds.
 
+## Roadmap
+Below is a list of the planned changes for the extension.
+
+1. Eliminating the red dot on the favicon notifiying users of new activity.
+
 ## License
 
 I don't understand licenses yet. This is free for anyone to download, use, distribute, fork, edit.
