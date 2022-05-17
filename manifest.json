@@ -1,9 +1,9 @@
 {
 	"manifest_version": 3,
 	
-	"name": "Minimal LinkedIn Plugin",
+	"name": "Minimal LinkedIn",
 	"version": "0.1.0",
-	"description": "A plugin to remove distractions from LinkedIn",
+	"description": "An extension to remove distractions from LinkedIn",
 	
 	"content_scripts": [{
 		"js": ["content.js"],
